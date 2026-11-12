@@ -14,6 +14,6 @@ Task 2 is for a security event logger, which asks for and authentications user l
 
 How to Run:
 
-- Open terminal in the security-tool.py file located in the project folder.
+- Open terminal in the security-event-logger.py file located in the project folder.
 - Run command " python3 security-event-logger.py ".
 - Follow instructions given by the program.
